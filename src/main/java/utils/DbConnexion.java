@@ -8,7 +8,7 @@ public class DbConnexion {
 
 	private final static String URL = "jdbc:mysql://localhost/db_emp_java_guide";
 	private final static String PASSWORD = "";
-	private final static String USER = "root";
+	private final static String USER = "";
 	
 	public static Connection getConnection() {
 	
